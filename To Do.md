@@ -1,4 +1,5 @@
-- [ ] Create new starters page
+- [x] Create new starters page
 - [ ] Review all ClearMacro git projects
 - [ ] Review JIRA tickets
 - [ ] Review Confluence space
+- [ ] Update new starters page
