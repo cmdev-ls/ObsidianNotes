@@ -4,7 +4,7 @@
 ## To Do
 
 - [ ] Add a basic README
-- [ ] Disable e2e tests for local runs
+- [x] Disable e2e tests for local runs
 - [x] Document the dependancies somewhere
 
 ## Thoughts
@@ -16,7 +16,7 @@
 ### Testing
 - 8 tests failed due to MongoDB issues...guessing setup related
 - The test design is good, I like the distinction between unit tests and e2e tests
-- It would be good to disable the e2e tests when running pytest locally
+- It would be good to disable the e2e tests when running pytest locally, waiting 30 seconds on every test is pointless if it can't be run
 
 ### Dependancies
 - Python/Poetry
