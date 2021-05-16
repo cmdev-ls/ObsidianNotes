@@ -3,7 +3,7 @@
 
 ## To Do
 
-- [ ] Add a basic README
+- [x] Add a basic README
 - [x] Disable e2e tests for local runs
 - [x] Document the dependancies somewhere
 
