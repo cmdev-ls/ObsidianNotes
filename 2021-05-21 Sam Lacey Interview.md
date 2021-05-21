@@ -36,6 +36,7 @@
 - What are you going to bring to Clear Macro?
 - What is Clear Macro going to do for you?
 - Should I be concerned by the short tenure in roles?
+- Deal with issues/difficult conversations?
 
 
 ## Other
