@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-06-14 Induction.md",
+            "file": "2021-06-14.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-14 Induction.md",
+                "file": "2021-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
