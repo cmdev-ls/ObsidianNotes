@@ -10,6 +10,7 @@
 - [ ] API Creation
 - [ ] Development Process
 - [ ] Deployment/Operations
+	- [ ] 
 - [ ] Shared secret repo
 - [ ] Azure Artrifact Credentials
 	- poetry token per project is not correct
