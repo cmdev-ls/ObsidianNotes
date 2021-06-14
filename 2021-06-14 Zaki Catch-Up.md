@@ -10,3 +10,5 @@
 - [ ] API Creation
 - [ ] Development Process
 - [ ] Deployment/Operations
+- [ ] Shared secret repo
+- [ ] Azure Artrifact Credentials
