@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-06-14.md",
+            "file": "Templates/Daily.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-06-14.md",
+                "file": "Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a1624848446fd867",
   "lastOpenFiles": [
+    "Templates/Daily.md",
+    "Daily Notes/2021-06-15.md",
     "Daily Notes/2021-06-14.md",
+    "2021-06-15.md",
     "Templates/Untitled.md",
     "2021-06-14 Zaki Catch-Up.md",
     "2021-05-21 Sam Lacey Interview.md",
     "2021-06-14 Induction.md",
     "2021-06-14.md",
-    "To Do.md",
-    "README.md",
-    "Git Projects/clearmacro.infrastructure.fileapi.md",
-    "Untitled.md"
+    "To Do.md"
   ]
 }
