@@ -12,5 +12,5 @@
 - [ ] Deployment/Operations
 - [ ] Shared secret repo
 - [ ] Azure Artrifact Credentials
-	- [ ] poetry token per project is not correct
-	- [ ] there must be a better way at the user level
+	- poetry token per project is not correct
+	- there must be a better way at the user level
