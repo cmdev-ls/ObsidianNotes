@@ -1,6 +1,12 @@
 # To Do List
 
 
-- [ ] Review fileapi
 - [ ] Orchestrate running of signals
-- [ ] 
+	- [ ] Review Signal Scripts
+	- [ ] Review Inputs
+	- [ ] How do you trigger on changes to either?
+	- [ ] 
+- [ ] Review fileapi
+- [ ] API Creation
+- [ ] Development Process
+- [ ] Deployment/Operations
