@@ -10,6 +10,10 @@
 - Flexability to sell treated data
 - UI connected to API, currently connected to the old signal code
 - New signal code being built
+- Priorities
+	1. Data Layer
+	2. API
+	3. Dashboard
 
 ###
 
