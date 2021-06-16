@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Questions for Eve.md",
+            "file": "Colleague Specific/Dema.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions for Eve.md",
+                "file": "Colleague Specific/Dema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "a1624848446fd867",
   "lastOpenFiles": [
+    "Colleague Specific/Dema.md",
+    "Colleague Specific/Eve.md",
     "Untitled.md",
     "To Do.md",
     "Templates/Daily.md",
@@ -108,8 +110,6 @@
     "Daily Notes/2021-06-16.md",
     "Daily Notes/2021-06-15.md",
     "2021-06-14 Zaki Catch-Up.md",
-    "2021-06-15 Mike Meeting.md",
-    "Daily Notes/2021-06-17.md",
-    "Daily Notes/2021-06-14.md"
+    "2021-06-15 Mike Meeting.md"
   ]
 }
