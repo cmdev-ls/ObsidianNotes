@@ -1,8 +1,8 @@
 - [x] Create new starters page
 - [ ] Review all ClearMacro git projects
 	- [x] [[clearmacro.infrastructure.fileapi]]
-- [ ] Develop standards
-- [ ] Create cookiecutter
+- [x] Develop standards
+- [x] Create cookiecutter
 - [ ] Review JIRA tickets
 - [ ] Review Confluence space
 - [ ] Update new starters page
