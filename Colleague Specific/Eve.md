@@ -1,5 +1,5 @@
 # Eve Questions
 
-- [ ] Email signature
+- [x] Email signature
 - [ ] Social/Fun events
 - [ ] Strava team
