@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Colleague Specific/Eve.md",
+            "file": "Daily Notes/2021-06-21.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colleague Specific/Eve.md",
+                "file": "Daily Notes/2021-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "a1624848446fd867",
   "lastOpenFiles": [
+    "Daily Notes/2021-06-21.md",
     "Colleague Specific/Eve.md",
     "Colleague Specific/Dema.md",
     "Daily Notes/2021-06-17.md",
@@ -109,7 +110,6 @@
     "To Do.md",
     "Templates/Daily.md",
     "Git Projects/clearmacro.infrastructure.fileapi.md",
-    "Daily Notes/2021-06-15.md",
-    "2021-06-14 Zaki Catch-Up.md"
+    "Daily Notes/2021-06-15.md"
   ]
 }
