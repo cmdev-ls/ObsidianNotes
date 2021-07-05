@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Colleague Specific/Sam.md",
+            "file": "Daily Notes/2021-07-05.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colleague Specific/Sam.md",
+                "file": "Daily Notes/2021-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "a1624848446fd867",
   "lastOpenFiles": [
-    "Untitled.md",
     "Daily Notes/2021-07-05.md",
+    "Untitled.md",
     "Daily Notes/2021-06-22.md",
     "Daily Notes/2021-06-21.md",
     "2021-06-15 Mike Meeting.md",
