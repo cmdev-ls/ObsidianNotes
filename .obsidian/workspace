@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2021-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +110,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f0d3ab555622f985",
+  "active": "a1624848446fd867",
   "lastOpenFiles": [
+    "Daily Notes/2021-07-22.md",
     "README.md",
     "2021-07-22 S&P Global.md",
-    "Daily Notes/2021-07-22.md",
     "Weekly Notes/2021-W27.md",
     "Untitled.md",
     "Meetings/Untitled.md",
