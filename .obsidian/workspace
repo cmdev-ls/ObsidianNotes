@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-07-22.md",
+            "file": "2021-07-22 S&P Global.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-07-22.md",
+                "file": "2021-07-22 S&P Global.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "a1624848446fd867",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Meetings/Untitled.md",
     "Daily Notes/2021-07-22.md",
     "Templates/0. Daily.md",
     "Templates/0. Weekly.md",
@@ -108,8 +110,6 @@
     "Daily Notes/2021-07-07.md",
     "Colleague Specific/Sam.md",
     "Templates/Untitled.md",
-    "Weekly Notes/2021-W27.md",
-    "Daily Notes/2021-07-05.md",
-    "Daily Notes/2021-06-22.md"
+    "Weekly Notes/2021-W27.md"
   ]
 }
