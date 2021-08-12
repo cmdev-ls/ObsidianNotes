@@ -17,4 +17,12 @@
 - DockerFile v. Image concepts
 - Example DockerFiles
 - Best Practices
-- 
+
+
+## Kubernetes 
+
+## Argo
+
+## Github Actions
+
+##
