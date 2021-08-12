@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "33cbf6f8eecb0aa9",
+        "id": "6aa9af12bc69faec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-07-23.md",
+            "file": "Training.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP.md",
+                "file": "Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,14 +110,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a1624848446fd867",
+  "active": "6aa9af12bc69faec",
   "lastOpenFiles": [
+    "Training.md",
+    "Daily Notes/2021-07-23.md",
     "Untitled.md",
     "To Do.md",
-    "Training.md",
     "Daily Notes/2021-08-02.md",
     "Daily Notes/2021-07-26.md",
-    "Daily Notes/2021-07-23.md",
     "README.md",
     "Daily Notes/2021-07-22.md",
     "2021-07-22 S&P Global.md",
