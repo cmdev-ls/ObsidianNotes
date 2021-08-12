@@ -5,4 +5,5 @@
 - [x] Create cookiecutter
 - [ ] Review JIRA tickets
 - [ ] Review Confluence space
-- [ ] Update new starters page
+- [x] Update new starters page
+- [ ] 
