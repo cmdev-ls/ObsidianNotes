@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "69921ad92ad3f8f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Training.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP.md",
+                "file": "Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,12 +121,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4407d489b77c5077",
+  "active": "69921ad92ad3f8f5",
   "lastOpenFiles": [
+    "Training.md",
     "MVP.md",
     "Message Queue Events.md",
     "Untitled.md",
-    "Training.md",
     "Daily Notes/2021-07-23.md",
     "To Do.md",
     "Daily Notes/2021-08-02.md",
