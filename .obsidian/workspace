@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Training.md",
-            "mode": "preview"
+            "file": "To Do.md",
+            "mode": "source"
           }
         }
       }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +123,12 @@
   },
   "active": "69921ad92ad3f8f5",
   "lastOpenFiles": [
+    "To Do.md",
     "Training.md",
     "MVP.md",
     "Message Queue Events.md",
     "Untitled.md",
     "Daily Notes/2021-07-23.md",
-    "To Do.md",
     "Daily Notes/2021-08-02.md",
     "Daily Notes/2021-07-26.md",
     "README.md",

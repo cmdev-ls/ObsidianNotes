@@ -6,4 +6,4 @@
 - [ ] Review JIRA tickets
 - [ ] Review Confluence space
 - [x] Update new starters page
-- [ ] 
+- [ ] Read https://therecord.media/nsa-cisa-publish-kubernetes-hardening-guide/ 
