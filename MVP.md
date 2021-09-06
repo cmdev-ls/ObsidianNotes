@@ -4,7 +4,9 @@
 - [ ] Add loaders to workflow
 	- [x] Migrate loaders to Reference API
 - [ ] Customer API documented
+- [ ] Re-index the FileAPI
 - [ ] De-dupe in FileAPI
+	- [ ] Remove existing dupes?
 - [ ] 
 
 - [ ] All prod services moved to subscription 2
