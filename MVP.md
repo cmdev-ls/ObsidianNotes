@@ -4,7 +4,8 @@
 - [ ] Add loaders to workflow
 	- [x] Migrate loaders to Reference API
 - [ ] Customer API documented
-- [ ] Dedupe in FileAPI
+- [ ] De-dupe in FileAPI
+- [ ] 
 
 - [ ] All prod services moved to subscription 2
 - [x] Reference API in Prod
@@ -20,4 +21,5 @@
 
 
 - [ ] Get Tokens for Customer API
-- [ ] 
+- [ ] Free resource?
+	- [ ] 
