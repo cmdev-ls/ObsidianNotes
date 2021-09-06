@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6aa9af12bc69faec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Message Queue Events.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "4407d489b77c5077",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "MVP.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "69921ad92ad3f8f5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "To Do.md",
             "mode": "source"
           }
         }
@@ -104,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "MVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +99,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "69921ad92ad3f8f5",
+  "active": "4407d489b77c5077",
   "lastOpenFiles": [
+    "MVP.md",
     "To Do.md",
     "Training.md",
-    "MVP.md",
     "Message Queue Events.md",
     "Untitled.md",
     "Daily Notes/2021-07-23.md",
