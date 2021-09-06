@@ -1,13 +1,16 @@
 # Minimum Viable Product
-- [ ] All prod services moved to subscription 2
+
+- [ ] Migrate legacy SQL DB to Postgres
 - [ ] Add loaders to workflow
 	- [x] Migrate loaders to Reference API
+- [ ] Customer API documented
+
+
+- [ ] All prod services moved to subscription 2
 - [x] Reference API in Prod
 - [x] Reference DB in Prod
-- [ ] Migrate legacy SQL DB to Postgres
 - [x] Customer API in Prod
 - [ ] Customer API feature complete
-- [ ] Customer API documented
 - [ ] Add healthchecks to all API's
 - [ ] UI/Process for managing Reference DB
 - [ ] Shutdown old prod-fileapi services
