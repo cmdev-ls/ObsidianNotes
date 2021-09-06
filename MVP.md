@@ -4,7 +4,7 @@
 - [ ] Add loaders to workflow
 	- [x] Migrate loaders to Reference API
 - [ ] Customer API documented
-
+- [ ] Dedupe in FileAPI
 
 - [ ] All prod services moved to subscription 2
 - [x] Reference API in Prod
@@ -16,7 +16,7 @@
 - [ ] Shutdown old prod-fileapi services
 - [ ] Error notifications
 - [ ] Data loader failures
-- [ ] 
+
 
 
 - [ ] Get Tokens for Customer API
