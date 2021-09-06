@@ -8,3 +8,5 @@
 - [x] Customer API in Prod
 - [ ] Customer API feature complete
 - [ ] Customer API documented
+- [ ] Add healthchecks to all API's
+- [ ] 
