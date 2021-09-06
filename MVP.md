@@ -9,4 +9,6 @@
 - [ ] Customer API feature complete
 - [ ] Customer API documented
 - [ ] Add healthchecks to all API's
+- [ ] UI/Process for managing Reference DB
+- [ ] Shutdown old prod-fileapi services
 - [ ] 
