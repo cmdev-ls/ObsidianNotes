@@ -14,4 +14,8 @@
 - [ ] Add healthchecks to all API's
 - [ ] UI/Process for managing Reference DB
 - [ ] Shutdown old prod-fileapi services
+
+
+
+- [ ] Get Tokens for Customer API
 - [ ] 
