@@ -7,6 +7,7 @@
 	- [ ] Prod
 - [ ] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
+- [ ] Make FileAPI transactions atomic
 - [ ] Shutdown old prod-fileapi services
 
 
