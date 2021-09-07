@@ -1,9 +1,0 @@
-- [x] Create new starters page
-- [ ] Review all ClearMacro git projects
-	- [x] [[clearmacro.infrastructure.fileapi]]
-- [x] Develop standards
-- [x] Create cookiecutter
-- [ ] Review JIRA tickets
-- [ ] Review Confluence space
-- [x] Update new starters page
-- [ ] Read https://therecord.media/nsa-cisa-publish-kubernetes-hardening-guide/ 

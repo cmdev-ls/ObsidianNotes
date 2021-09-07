@@ -1,4 +1,4 @@
-# Minimum Viable Product
+# To Do
 
 - [ ] Migrate legacy SQL DB to Postgres
 - [ ] Add loaders to workflow
@@ -19,6 +19,8 @@
 - [ ] Shutdown old prod-fileapi services
 - [ ] Error notifications
 - [ ] Data loader failures
+- [ ] Refresh Cosmo DB passwords
+- [ ] Sort out docker hub info
 
 
 
