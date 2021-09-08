@@ -4,7 +4,7 @@
 - [ ] Re-index the FileAPI
 	- [x] Dev
 	- [ ] Missing Blobs?
-	- [ ] Prod
+	- [x] Prod
 - [ ] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
 - [ ] Make FileAPI transactions atomic
