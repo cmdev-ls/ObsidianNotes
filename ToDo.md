@@ -26,7 +26,7 @@
 - [ ] Get Tokens for Customer API
 - [ ] Free resource?
 - [ ] Standardise Github repos
-- [ ] 
+- [ ] Rename argo configuration
 
 ## Done
 - [x] Reference API in Prod
