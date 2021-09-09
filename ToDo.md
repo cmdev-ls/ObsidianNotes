@@ -25,7 +25,8 @@
 - [ ] Sort out docker hub info
 - [ ] Get Tokens for Customer API
 - [ ] Free resource?
-	- [ ] 
+- [ ] Standardise Github repos
+- [ ] 
 
 ## Done
 - [x] Reference API in Prod
