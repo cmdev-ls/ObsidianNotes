@@ -27,6 +27,7 @@
 - [ ] Free resource?
 - [ ] Standardise Github repos
 - [ ] Rename argo configuration
+- [ ] Update signal base to use common log logic
 
 ## Done
 - [x] Reference API in Prod
