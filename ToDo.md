@@ -5,18 +5,16 @@
 	- [x] Dev
 	- [ ] Missing Blobs?
 	- [x] Prod
-- [ ] De-dupe in FileAPI
+	- [ ] Delete missing blobs
+- [x] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
-- [ ] Make FileAPI transactions atomic
+- [x] Make FileAPI transactions atomic
 - [ ] Shutdown old prod-fileapi services
-
-
-
 - [ ] Migrate legacy SQL DB to Postgres
 - [ ] Add loaders to workflow
 	- [x] Migrate loaders to Reference API
 - [ ] Customer API documented
-- [ ] 
+- [ ] Improve missing check, time constraint
 - [ ] All prod services moved to subscription 2
 - [ ] Customer API feature complete
 - [ ] Add healthchecks to all API's
@@ -25,9 +23,6 @@
 - [ ] Data loader failures
 - [ ] Refresh Cosmo DB passwords
 - [ ] Sort out docker hub info
-
-
-
 - [ ] Get Tokens for Customer API
 - [ ] Free resource?
 	- [ ] 
