@@ -5,7 +5,7 @@
 	- [x] Dev
 	- [ ] Missing Blobs?
 	- [x] Prod
-	- [ ] Delete missing blobs
+	- [x] Delete missing blobs
 - [x] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
 - [x] Make FileAPI transactions atomic
