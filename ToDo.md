@@ -28,6 +28,8 @@
 - [ ] Rework argo workflows, standardise them
 - [ ] Rename argo configuration
 - [ ] Run workflows automatically
+- [ ] Argo/Kubes permissions
+- [ ] JIT Signal Generation
 
 
 
