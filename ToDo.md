@@ -30,6 +30,7 @@
 - [ ] Run workflows automatically
 - [ ] Argo/Kubes permissions
 - [ ] JIT Signal Generation
+- [ ] Tooling to update crons/test
 
 
 
