@@ -1,34 +1,48 @@
 # To Do
 
 ## Outstanding
+### Operational
 - [ ] Re-index the FileAPI
 	- [x] Dev
 	- [ ] Missing Blobs?
 	- [x] Prod
 	- [x] Delete missing blobs
+
 - [x] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
+
+- [ ] Shutdown old prod-fileapi services
+
+- [ ] Migrate legacy SQL DB to Postgres
+
+- [ ] All prod services moved to subscription 2
+
+- [ ] Sort out docker hub info
+
+- [ ] Refresh Cosmo DB passwords
+
+
+### Workflows
 - [ ] Error notifications
 - [ ] Data loader failures
 - [ ] Rework argo workflows, standardise them
-- [ ] 
+- [ ] Rename argo configuration
+- [ ] Run workflows automatically
 
 
 
-- [ ] Shutdown old prod-fileapi services
-- [ ] Migrate legacy SQL DB to Postgres
+
+### Development
 - [ ] Improve missing check, time constraint
-- [ ] All prod services moved to subscription 2
 - [ ] Customer API feature complete
 - [ ] Add healthchecks to all API's
 - [ ] UI/Process for managing Reference DB
-- [ ] Refresh Cosmo DB passwords
-- [ ] Sort out docker hub info
-- [ ] Get Tokens for Customer API
+- [ ] Update signal base to use common log logic
+
+### Other
 - [ ] Free resource?
 - [ ] Standardise Github repos
-- [ ] Rename argo configuration
-- [ ] Update signal base to use common log logic
+- [ ] Get Tokens for Customer API
 
 ## Done
 - [x] Reference API in Prod
