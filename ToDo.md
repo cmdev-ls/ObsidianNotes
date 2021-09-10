@@ -5,13 +5,14 @@
 - [ ] Re-index the FileAPI
 	- [x] Dev
 	- [ ] Missing Blobs?
-	- [x] Prod
+	- [ ] Prod
 	- [x] Delete missing blobs
 
 - [x] De-dupe in FileAPI
 	- [ ] Remove existing dupes?
 
 - [ ] Shutdown old prod-fileapi services
+	- [ ] 
 
 - [ ] Migrate legacy SQL DB to Postgres
 
@@ -21,8 +22,17 @@
 
 - [ ] Refresh Cosmo DB passwords
 
+- [ ] Fix missing data
+	- [ ] Alexandria
+	- [ ] IHS
+	- [ ] EPFR Check
+	- [ ] Crossborder Check
+	- [ ] Sentiment Trader Check
+	- [ ] Refinitiv Check
 
 ### Workflows
+- [ ] Tooling to update crons/test
+- [ ] Centralise the repos
 - [ ] Error notifications
 - [ ] Data loader failures
 - [ ] Rework argo workflows, standardise them
@@ -30,7 +40,6 @@
 - [ ] Run workflows automatically
 - [ ] Argo/Kubes permissions
 - [ ] JIT Signal Generation
-- [ ] Tooling to update crons/test
 
 
 
