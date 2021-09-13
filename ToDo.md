@@ -30,6 +30,8 @@
 	- [ ] Sentiment Trader Check
 	- [ ] Refinitiv Check
 
+- [ ] Consolidate monitoring
+
 ### Workflows
 - [ ] Tooling to update crons/test
 - [ ] Centralise the repos
