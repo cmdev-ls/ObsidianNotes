@@ -50,6 +50,7 @@
 - [ ] Add healthchecks to all API's
 - [ ] UI/Process for managing Reference DB
 - [ ] Update signal base to use common log logic
+- [ ] Standard Docker build for Poetry
 
 ### Other
 - [ ] Free resource?
