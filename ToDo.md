@@ -53,6 +53,8 @@
 - [ ] UI/Process for managing Reference DB
 - [ ] Update signal base to use common log logic
 - [ ] Standard Docker build for Poetry
+- [ ] Build and publish data ingestion docker containers for dev
+- [ ] Build and publish signal containers for dev
 
 ### Other
 - [ ] Free resource?
