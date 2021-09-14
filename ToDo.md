@@ -57,6 +57,7 @@
 ### Other
 - [ ] Free resource?
 - [ ] Standardise Github repos
+	- [ ] Document repos, use, and naming
 - [ ] Get Tokens for Customer API
 
 ## Done
