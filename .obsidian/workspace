@@ -66,6 +66,14 @@
             "id": "6dd6392e6b588185",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "56e305b969cc664e",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
